@@ -1,5 +1,7 @@
 /* Typography */
-
+body{
+    font-family: 'Poppins', sans-serif;
+}
 /* Main */
 main {
     max-width: 1140px;
